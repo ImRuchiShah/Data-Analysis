@@ -8,12 +8,12 @@ Client: **Social Buzz**, a Social media & content creation organization.
 
 Social Buzz has reached a massive scale within recent years and does not have the resources internally to adapt quickly to it's global scale. 
 
-**Problem Statement: **
+**Problem Statement:**
 
 - An audit of their big data practices
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity.
 
-**Task Performed: **
+**Task Performed:**
 
 - Cleaned the datasets provided by the client and carried out data modeling in Excel.
 - Successfully analyzed and interpreted the client’s data to highlight their top 5 content categories with the largest aggregate popularity.
