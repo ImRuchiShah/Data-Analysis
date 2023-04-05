@@ -40,4 +40,9 @@ Social Buzz has reached a massive scale within recent years and does not have th
 - Utilized data visualizations tools and techniques to create a dashboard and carry out storytelling with data.
 - Prepared a presentation using PowerPoint to deliver the insights from the data.
               
-
+**Insights**
+From Data Analyzed from June 2020 to June 2021 for "Total Content Categories - 16", "Total Content Type - 4" and "Total Content - 962", 
+- May 2021, has the highest Content Views of 2138
+- Animal with 21.36% views is the Popular Content Category
+- Photos with 26.81% views is the popular Content Type 
+- Heart with 20.65% views is the Popular Reaction Type
